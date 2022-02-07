@@ -2,5 +2,5 @@
   command = "CI= npm run build"
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "http://ramarion.github.io/portfolio_website"
   status = 200
