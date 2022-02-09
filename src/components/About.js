@@ -18,7 +18,7 @@ import React from "react";
                   </div>
                   </div>
                 </h1>
-                <p className="mb-8 leading-relaxed">
+                <p className="mb-8 leading-relaxed text-white">
                   Let me show you why you should hire me.
                 </p>
                 <div className="flex justify-center">
