@@ -8,7 +8,15 @@ import React from "react";
               <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                 <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-red-600">
                   Hi, I'm Raoulex Nurse.
-                  <br className="hidden lg:inline-block" />I am a Web Developer
+                  <br className="hidden lg:inline-block" />I am a 
+                  <div className = "my-wrap"> 
+                  <div className = "my-wrapper"> 
+                  <div className="my-wrapper-item">Web Developer </div> 
+                  <div className="my-wrapper-item">Front-End Developer </div> 
+                  <div className="my-wrapper-item">Photographer</div> 
+                  <div className="my-wrapper-item">UX/UI Developer</div> 
+                  </div>
+                  </div>
                 </h1>
                 <p className="mb-8 leading-relaxed">
                   Let me show you why you should hire me.
