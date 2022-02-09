@@ -6,7 +6,7 @@
 
 .my-wrapper{ height:100%; animation:move 10s ease-in-out infinite alternate;}
 
-.my-wrapper-item{ height:50px; display:flex; align-items:center;}
+.my-wrapper-item{ height:50px; display:flex; align-items:center; color:yellow;}
 
 @keyframes move {
     50%{transform:translateY(-50px);}
