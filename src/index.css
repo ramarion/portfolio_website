@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.my-wrap{ height:50px; overflow:hidden;}
+.my-wrap{ height:50px; overflow:hidden; margin-left:105px; margin-top:-45px; width:auto; }
 
 .my-wrapper{ height:100%; animation:move 10s ease-in-out infinite alternate;}
 
