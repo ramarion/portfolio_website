@@ -13,3 +13,6 @@
     75%{transform:translateY(-100px);}
     100%{transform:translateY(-150px);}
 }
+
+#about{ background-color: black;}
+    
