@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.my-wrap{ height:50px; overflow:hidden;}
+
+.my-wrapper{ height:100%; animation:move 10s ease-in-out infinite alternate;}
+
+.my-wrapper-item{ height:50px; display:flex; align-items:center;}
+
+@keyframes move {
+    50%{transform:translateY(-50px);}
+    75%{transform:translateY(-100px);}
+    100%{transform:translateY(-150px);}
+}
